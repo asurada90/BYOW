@@ -1,4 +1,4 @@
-# Byow Design Document
+# Byow
 
 MapGenerator Class
 * Fields
