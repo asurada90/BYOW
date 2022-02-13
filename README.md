@@ -1,4 +1,4 @@
-# Byow
+# Build Your Own World(BYOW)
 
 MapGenerator Class
 * Fields
