@@ -1,5 +1,7 @@
 # Build Your Own World(BYOW)
 
+## BYOW is a 2D tile-based engine which generates explorable worlds
+
 MapGenerator Class
 * Fields
    * TETILE[][] map
